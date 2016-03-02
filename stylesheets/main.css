@@ -1,0 +1,111 @@
+
+body {
+	text-align:justify;
+	background-color: pink;
+	margin: 0;
+	position: center;
+}
+header {
+	text-align: center;
+}
+
+h1 {
+	font-size: 75px;
+	margin: 0 auto;
+}
+
+.page-header {
+	text-align: center;
+	background-color: purple; 
+}
+
+.main-content {
+	height: 500px;
+}
+
+.circle {
+  text-align:center;
+  background-color: blue;
+  height: 150px;
+  width: 150px;
+  line-height:150px;
+  border-radius:75px;
+}
+a {
+	color: black;
+}
+
+span {
+	display: inline-block;
+	vertical-align:middle;
+	line-height: normal;
+}
+.container {
+	position: relative;
+	height: 400px;
+	margin: 40px auto;
+}
+.first {
+	position: absolute;
+	left: 45%;
+}
+
+.second {
+	position:absolute;
+	left: 20%;
+	top: 30%;
+}
+.third {
+	position: absolute;
+	left: 70%;
+	top: 30%;
+}
+
+.fourth {
+	position: absolute;
+	left: 30%;
+	top: 70%;
+}
+
+.fifth {
+	position: absolute;
+	left: 60%;
+	top:70%;
+}
+.content {
+	margin: 10px auto;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+}
+
+.image-container {
+	margin: 20px;
+	position: relative;
+	height: 200px;
+	max-width: 700px;
+	background: purple;
+	border-radius: 20px;
+}
+
+#arrowleft {
+	margin: 0 20px;
+	position: absolute;
+	font-size: 50px;
+	height: 200px;
+	line-height: 200px;
+}
+
+#arrowright {
+	margin: 0 20px;
+	position: absolute;
+	font-size: 50px;
+	height: 200px;
+	line-height: 200px;
+	right: 0;
+}
+
+
+
