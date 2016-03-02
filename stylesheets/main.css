@@ -1,0 +1,147 @@
+
+body {
+	text-align:justify;
+	background-color: rgba(255,147,153, 0.5); 
+	background-position: center;
+	background-size: cover;
+	margin: 0;
+	position: center;
+	font-family: "Indie Flower", serif;
+}
+header {
+	text-align: center;
+}
+
+h1 {
+	font-size: 75px;
+	margin: 0;
+}
+
+h2 {
+	font-size: 40px;
+	margin: 0;
+}
+.page-header {
+	text-align: center;
+	background: url(http://s27.postimg.org/dwpg6jg4j/background.gif);
+	background-size: cover;
+}
+
+.main-content {
+	height: 1000px;
+}
+
+.circle {
+  text-align:center;
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  line-height:200px;
+  border-radius:100px;
+}
+a {
+	color: black;
+	background: white;
+}
+
+span {
+	display: inline-block;
+	vertical-align:middle;
+	line-height: normal;
+}
+.container {
+	position: relative;
+	height: 700px;
+	margin: 40px auto;
+}
+.first {
+	position: absolute;
+	left: 45%;
+	background: url(http://s21.postimg.org/qiyavasdz/test.jpg);
+	background-position: center;
+	background-size: 200px;
+}
+
+.second {
+	position:absolute;
+	left: 20%;
+	top: 30%;
+	background: url(http://s8.postimg.org/4tty4a6qd/community.jpg);
+	background-position: center;
+	background-size: 200px;
+}
+.third {
+	position: absolute;
+	left: 70%;
+	top: 30%;
+	background: url(http://s10.postimg.org/jfaptrnnt/fitness.jpg);
+	background-position: 3px 10px;
+	background-size: 200px;
+}
+
+.fourth {
+	position: absolute;
+	left: 30%;
+	top: 70%;
+	background: url(http://s30.postimg.org/uha3vvno1/types1.jpg);
+	background-position: center;
+	background-size: 300px;
+}
+
+.fifth {
+	position: absolute;
+	left: 60%;
+	top:70%;
+	background: url(http://s30.postimg.org/zap9mzus1/artistic1.jpg);
+	background-position: -60px -30px;
+	background-size: 300px;
+}
+.content {
+	margin: 50px 100px;
+	padding: 10px;
+	background: url(http://s27.postimg.org/dwpg6jg4j/background.gif);
+	border-radius: 20px;
+}
+
+.content p {
+	background: white;
+}
+
+.footer {
+	position: fixed;
+	bottom:0;
+}
+
+.image-container {
+	margin: 20px;
+	position: relative;
+	height: 200px;
+	max-width: 700px;
+	background: purple;
+	border-radius: 20px;
+}
+
+#arrowleft {
+	margin: 0 20px;
+	position: absolute;
+	font-size: 50px;
+	height: 200px;
+	line-height: 200px;
+}
+
+#arrowright {
+	margin: 0 20px;
+	position: absolute;
+	font-size: 50px;
+	height: 200px;
+	line-height: 200px;
+	right: 0;
+}
+
+.facebook {
+	background: blue
+	color
+	;
+}
+
+
