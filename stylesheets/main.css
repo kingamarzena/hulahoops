@@ -138,10 +138,20 @@ span {
 	right: 0;
 }
 
+.btn {
+	color: white;
+}
 .facebook {
-	background: blue
-	color
-	;
+	background-color:#4868ac;
+	border-color: #314776;
 }
 
+.twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+}
 
+ul {
+	text-align: center;
+	list-style: none;
+}
