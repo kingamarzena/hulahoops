@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+<style>
+h1 {
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+  font-size: 75px;
+  color: #aaaaaa;
+  margin: 60px 0 0 0;
+}
+</style>
+</head>
+<body>
+<h1>Fitness Hula Hoop</h1>
+</body>
+</html>
