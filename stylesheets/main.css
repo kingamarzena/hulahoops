@@ -5,7 +5,6 @@ body {
 	background-color: rgba(255,147,153, 0.5); 
 	background-position: center;
 	background-size: cover;
-	margin: 0;
 	font-size: 18px;
 }
 
@@ -65,7 +64,7 @@ span {
 
 .first {
 	position: absolute;
-	left: 45%;
+	left: 40%;
 	background: url(http://s21.postimg.org/qiyavasdz/test.jpg);
 	background-position: center;
 	background-size: 200px;
@@ -73,7 +72,7 @@ span {
 
 .second {
 	position:absolute;
-	left: 20%;
+	left: 15%;
 	top: 30%;
 	background: url(http://s8.postimg.org/4tty4a6qd/community.jpg);
 	background-position: center;
@@ -85,7 +84,7 @@ span {
 	width: 250px;
 	border-radius: 125px;
 	position: absolute;
-	left: 43%;
+	left: 37.5%;
 	top: 35%;
 	background: url(http://s14.postimg.org/fisnleoox/Cc_Jo_DOFWo_AAIe_Pi.jpg);
 	background-position: center;
@@ -94,7 +93,7 @@ span {
 
 .third {
 	position: absolute;
-	left: 70%;
+	left: 65%;
 	top: 30%;
 	background: url(http://s10.postimg.org/jfaptrnnt/fitness.jpg);
 	background-position: 3px 10px;
@@ -103,7 +102,7 @@ span {
 
 .fourth {
 	position: absolute;
-	left: 30%;
+	left: 25%;
 	top: 70%;
 	background: url(http://s30.postimg.org/uha3vvno1/types1.jpg);
 	background-position: center;
@@ -112,7 +111,7 @@ span {
 
 .fifth {
 	position: absolute;
-	left: 60%;
+	left: 55%;
 	top:70%;
 	background: url(http://s30.postimg.org/zap9mzus1/artistic1.jpg);
 	background-position: -60px -30px;
