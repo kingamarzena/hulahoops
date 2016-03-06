@@ -9,6 +9,7 @@ body {
 	font-size: 18px;
 
 }
+
 header {
 	text-align: center;
 }
@@ -74,6 +75,18 @@ span {
 	background: url(http://s8.postimg.org/4tty4a6qd/community.jpg);
 	background-position: center;
 	background-size: 200px;
+}
+
+.middle {
+	height: 250px;
+	width: 250px;
+	border-radius: 125px;
+	position: absolute;
+	left: 43%;
+	top: 35%;
+	background: url(http://s14.postimg.org/fisnleoox/Cc_Jo_DOFWo_AAIe_Pi.jpg);
+	background-position: center;
+	background-size: 250px;
 }
 
 .third {
