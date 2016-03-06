@@ -146,6 +146,40 @@ span {
 	background-position: center;	
 }
 
+#circus {
+	background: url(http://s10.postimg.org/6covk0s2h/Big_Tops_Juggling.jpg);
+	background-size:cover;
+	background-position: center;
+	width: 800px;
+}
+
+#dance {
+	background: url(http://s30.postimg.org/lsa3lqotd/il_fullxfull_305431508.jpg);
+	background-size:cover;
+	background-position: center;
+}
+
+#fitness {
+	background: url(http://s7.postimg.org/qn3buwrgr/exercises12827.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+	width: 550px;
+}
+
+#fire {
+	background: url(http://s13.postimg.org/4o5p38xtj/Gora_poly_pro_fire_hoop_copy.jpg);
+	background-size:cover;
+	background-position: -60px 10px;
+}
+
+#glow {
+	background: url(http://s12.postimg.org/u7kv8g4rh/21_LED_Rechargeable_Hula_Hoop.jpg);
+	background-size:cover;
+	background-position: center;
+	width: 700px;
+}
+
 .footer {
 	position: fixed;
 	bottom:0;
