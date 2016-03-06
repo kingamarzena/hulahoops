@@ -113,35 +113,50 @@ span {
 }
 
 .image-container {
-	margin: 20px;
+	margin: 50px auto;
 	position: relative;
-	height: 200px;
+	height: 300px;
 	max-width: 700px;
 	background: purple;
 	border-radius: 20px;
 }
 
 #arrowleft {
-	margin: 0 20px;
+	margin: 0 30px;
 	position: absolute;
-	font-size: 50px;
-	height: 200px;
-	line-height: 200px;
+	font-size: 60px;
+	height: 300px;
+	line-height: 300px;
 }
 
 #arrowright {
-	margin: 0 20px;
+	margin: 0 30px;
 	position: absolute;
-	font-size: 50px;
-	height: 200px;
-	line-height: 200px;
+	font-size: 60px;
+	height: 300px;
+	line-height: 300px;
 	right: 0;
 }
 
-.facebook {
-	background: blue
-	color
-	;
+.btn {
+	color: white;
 }
 
+.facebook {
+	background-color:#4868ac;
+	border-color: #314776;
+}
 
+.twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+}
+
+ul {
+	text-align: center;
+	list-style: none;
+}
+
+#history-header {
+	font-size : 50px;
+}
