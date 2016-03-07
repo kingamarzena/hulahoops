@@ -1,15 +1,19 @@
 
 body {
 	text-align:justify;
+	font-family: "Kreon", serif;
 	background-color: rgba(255,147,153, 0.5); 
 	background-position: center;
 	background-size: cover;
-	margin: 0;
-	position: center;
-	font-family: "Indie Flower", serif;
+	font-size: 18px;
 }
+
 header {
 	text-align: center;
+}
+
+div {
+	max-width: 1000px;
 }
 
 h1 {
@@ -22,7 +26,8 @@ h2 {
 	margin: 0;
 }
 .page-header {
-	text-align: center;
+	text-align: center;	
+	font-family: "Indie Flower", serif;
 	background: url(http://s27.postimg.org/dwpg6jg4j/background.gif);
 	background-size: cover;
 }
@@ -39,9 +44,10 @@ h2 {
   line-height:200px;
   border-radius:100px;
 }
+
 a {
 	color: black;
-	background: white;
+	background: rgba(255,255,255, 0.7);
 }
 
 span {
@@ -49,14 +55,16 @@ span {
 	vertical-align:middle;
 	line-height: normal;
 }
+
 .container {
 	position: relative;
 	height: 700px;
 	margin: 40px auto;
 }
+
 .first {
 	position: absolute;
-	left: 45%;
+	left: 40%;
 	background: url(http://s21.postimg.org/qiyavasdz/test.jpg);
 	background-position: center;
 	background-size: 200px;
@@ -64,15 +72,28 @@ span {
 
 .second {
 	position:absolute;
-	left: 20%;
+	left: 15%;
 	top: 30%;
 	background: url(http://s8.postimg.org/4tty4a6qd/community.jpg);
 	background-position: center;
 	background-size: 200px;
 }
+
+.middle {
+	height: 250px;
+	width: 250px;
+	border-radius: 125px;
+	position: absolute;
+	left: 37.5%;
+	top: 35%;
+	background: url(http://s14.postimg.org/fisnleoox/Cc_Jo_DOFWo_AAIe_Pi.jpg);
+	background-position: center;
+	background-size: 250px;
+}
+
 .third {
 	position: absolute;
-	left: 70%;
+	left: 65%;
 	top: 30%;
 	background: url(http://s10.postimg.org/jfaptrnnt/fitness.jpg);
 	background-position: 3px 10px;
@@ -81,7 +102,7 @@ span {
 
 .fourth {
 	position: absolute;
-	left: 30%;
+	left: 25%;
 	top: 70%;
 	background: url(http://s30.postimg.org/uha3vvno1/types1.jpg);
 	background-position: center;
@@ -90,21 +111,90 @@ span {
 
 .fifth {
 	position: absolute;
-	left: 60%;
+	left: 55%;
 	top:70%;
 	background: url(http://s30.postimg.org/zap9mzus1/artistic1.jpg);
 	background-position: -60px -30px;
 	background-size: 300px;
 }
+
 .content {
-	margin: 50px 100px;
+	margin: 50px auto;
 	padding: 10px;
 	background: url(http://s27.postimg.org/dwpg6jg4j/background.gif);
+	background-size: cover;
 	border-radius: 20px;
+	max-width: 1000px;
 }
 
 .content p {
 	background: white;
+	margin: 10px 50px;
+	font-size: 16px;
+}
+
+.content h4 {
+	margin: 10px 50px;
+	font-size: 20px;
+}
+
+.image {
+	margin: 0 auto;
+	height: 500px;
+	width: 500px;
+	border-radius: 20px;
+}
+
+#love {
+	background: url(http://s29.postimg.org/ksokk7tbb/op_1_1.jpg);
+	background-size: cover;
+}
+
+#scherer {
+	background: url(http://s16.postimg.org/7xdggyadx/12661454513_7ea806fdaf_b.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+#strange {
+	background: url(http://s16.postimg.org/yzxt6if4l/maxresdefault.jpg);
+	background-size: cover;
+	background-position: center;	
+}
+
+#circus {
+	background: url(http://s10.postimg.org/6covk0s2h/Big_Tops_Juggling.jpg);
+	background-size:cover;
+	background-position: center;
+	width: 800px;
+	margin: 40px auto;
+}
+
+#dance {
+	background: url(http://s30.postimg.org/lsa3lqotd/il_fullxfull_305431508.jpg);
+	background-size:cover;
+	background-position: center;
+}
+
+#fitness {
+	background: url(http://s7.postimg.org/qn3buwrgr/exercises12827.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+	width: 550px;
+}
+
+#fire {
+	background: url(http://s13.postimg.org/4o5p38xtj/Gora_poly_pro_fire_hoop_copy.jpg);
+	background-size:cover;
+	background-position: -60px 10px;
+}
+
+#glow {
+	background: url(http://s12.postimg.org/u7kv8g4rh/21_LED_Rechargeable_Hula_Hoop.jpg);
+	background-size:cover;
+	background-position: center;
+	width: 700px;
 }
 
 .footer {
@@ -117,7 +207,8 @@ span {
 	position: relative;
 	height: 300px;
 	max-width: 700px;
-	background: purple;
+	background: url(http://s30.postimg.org/zap9mzus1/artistic1.jpg);
+	background-size: cover;
 	border-radius: 20px;
 }
 
@@ -159,4 +250,19 @@ ul {
 
 #history-header {
 	font-size : 50px;
+}
+
+.cen {
+	margin: 0 auto;
+	width: 300px;
+}
+
+img {
+	border-radius: 20px;
+}
+
+.video {
+	margin: 0 auto;
+	width: 500px;
+	height: 350px;
 }
